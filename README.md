@@ -7,6 +7,7 @@ wait(1)
 
 
 
+https://scriptblox.com/raw/ScriptBlox-Direct-Execute-Feature_645
 
 
 
